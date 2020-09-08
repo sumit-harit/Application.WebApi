@@ -1,0 +1,6 @@
+2020-08-17 16:09:52.249 +05:30 [WRN] Role 94d0c020-e95b-44a5-b7f2-17fc08fef94e validation failed: DuplicateRoleName.
+2020-08-17 16:09:52.370 +05:30 [WRN] Role b556c9a7-0934-4d68-83b3-454e0b5c5f1d validation failed: DuplicateRoleName.
+2020-08-17 16:09:52.372 +05:30 [WRN] Role c835912f-95f2-4fcf-8f25-8702f3f8b628 validation failed: DuplicateRoleName.
+2020-08-17 16:09:52.374 +05:30 [WRN] Role e93f4760-2edc-454c-9461-c21652a541a9 validation failed: DuplicateRoleName.
+2020-08-17 16:09:52.508 +05:30 [INF] Finished Seeding Default Data
+2020-08-17 16:09:52.509 +05:30 [INF] Application Starting
